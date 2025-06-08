@@ -1,6 +1,6 @@
 # 🔐 Sezar Şifreleme
 
-**Sezar Şifreleme**, C# programlama dili kullanılarak geliştirilen bir metin şifreleme ve şifre çözme uygulamasıdır. Uygulama, **Sezar Şifreleme (Caesar Cipher)** algoritmasını kullanarak belirli bir kaydırma değeri ile metni şifreler veya şifrelenmiş metni çözer.
+**Sezar Şifreleme**, Java programlama dili kullanılarak geliştirilen bir metin şifreleme ve şifre çözme uygulamasıdır. Uygulama, **Sezar Şifreleme (Caesar Cipher)** algoritmasını kullanarak belirli bir kaydırma değeri ile metni şifreler veya şifrelenmiş metni çözer.
 
 ## 📌 Özellikler
 
